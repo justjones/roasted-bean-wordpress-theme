@@ -86,9 +86,15 @@ This theme is part of a portfolio project that demonstrates building the same co
 - Translating the same design across React and WordPress
 - Responsive UI development
 - Custom theme architecture in WordPress
-- Component-based frontend thinking applied across stacks
+- Component-based frontend thinking applied across stacks!
+
 - Git/GitHub workflow and deployment
 
 ## Author
 
 Lori Jones
+
+
+
+
+<img width="1214" height="834" alt="screenshot" src="https://github.com/user-attachments/assets/04a90637-c445-4885-a71a-4ecd6f607a91" />
