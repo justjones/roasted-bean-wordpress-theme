@@ -47,6 +47,20 @@ roasted-bean-wordpress-theme
 - Git
 - VS Code
 
+## Project Pairing
+
+This project is part of a two-build portfolio exercise where the same coffee shop website was created in two different stacks:
+
+### React Version
+
+Built with React + Vite and deployed on Vercel.  
+Live Demo: https://cozy-brew-launch.vercel.app
+
+### WordPress Version
+
+Built as a custom WordPress theme using LocalWP.  
+Theme Repo: https://github.com/justjones/roasted-bean-wordpress-theme
+
 ## Project Context
 
 This theme is part of a portfolio project that demonstrates building the same coffee shop site using two different stacks:
@@ -60,6 +74,14 @@ This theme is part of a portfolio project that demonstrates building the same co
 
 - Custom WordPress theme
 - Built locally with LocalWP
+
+## What This Project Demonstrates
+
+- Translating the same design across React and WordPress
+- Responsive UI development
+- Custom theme architecture in WordPress
+- Component-based frontend thinking applied across stacks
+- Git/GitHub workflow and deployment
 
 ## Author
 
