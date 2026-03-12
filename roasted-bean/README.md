@@ -1,5 +1,11 @@
 # Roasted Bean Coffee – WordPress Theme
 
+![WordPress](https://img.shields.io/badge/Built%20with-WordPress-21759B)
+![PHP](https://img.shields.io/badge/PHP-Theme-777BB4)
+![CSS](https://img.shields.io/badge/CSS-Responsive-1572B6)
+![LocalWP](https://img.shields.io/badge/Environment-LocalWP-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+
 A custom WordPress theme built for a fictional coffee shop website.  
 This theme was developed as part of a frontend + WordPress portfolio project.
 
