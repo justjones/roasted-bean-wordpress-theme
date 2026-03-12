@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Node / build tools (if ever used)
+node_modules/
+dist/
+build/
+
+# Editor folders
+.vscode/
+.idea/
+
+# WordPress debug logs
+debug.log
+
+# Mac system files
+*.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
