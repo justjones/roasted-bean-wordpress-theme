@@ -6,6 +6,7 @@
 ![LocalWP](https://img.shields.io/badge/Environment-LocalWP-blue)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
 
+![Roasted Bean Theme Preview](screenshot.png)
 A custom WordPress theme built for a fictional coffee shop website.  
 This theme was developed as part of a frontend + WordPress portfolio project.
 
@@ -97,4 +98,4 @@ Lori Jones
 
 
 
-<img width="1214" height="834" alt="screenshot" src="https://github.com/user-attachments/assets/04a90637-c445-4885-a71a-4ecd6f607a91" />
+
